@@ -1,0 +1,9 @@
+.nav-item:hover{
+    background-color:#541212;
+} 
+.social-icon{
+    transition: all 0.3s ease-in-out;   
+}
+.social-icon:hover{
+    transform: scale(1.2);
+} 
